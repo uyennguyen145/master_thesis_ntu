@@ -1,0 +1,9 @@
+Comparative analysis of TAM and CAF signature co-abundance,,,,,
+,coef,exp(coef),se(coef),z,Pr(>|z|)
+TAM_groupHigh,-0.000395716,0.999604363,0.417708725,-0.000947348,0.999244126
+CAF_groupHigh,0.265993328,1.304726354,0.227168729,1.170906444,0.241636385
+TAM_groupHigh:CAF_groupHigh,0.299235634,1.348827415,0.45276885,0.660901548,0.508675453
+,,,,,
+,,,,,
+Variable,HR,CI_lower,CI_upper,P_value,CI_95
+TAM_CAF_binary,1.762473158,1.176654433,2.639952349,0.005976242,1.76 (1.18-2.64)

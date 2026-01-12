@@ -1,0 +1,7 @@
+GLMM results for macrophage subtype comparisons between conditions,,,,,,,,,,
+,subtype,estimate,OR,OR_lower,OR_upper,p.value,p.adjusted,significance,enrichment,fold_change
+1,TRAM,-2.593930864,0.074725725,0.036277466,0.153922933,1.99E-12,1.99E-12,***,Enriched in Normal,13.38× higher in Normal
+2,TAM,1.148157806,3.152380261,1.518074097,6.54612402,0.002072435,0.002072435,**,Enriched in Tumor,3.15× higher in Tumor
+3,Profi_TAM,2.04868761,7.757713279,2.835477855,21.22468184,6.62E-05,6.62E-05,***,Enriched in Tumor,7.76× higher in Tumor
+4,Proli_TRM,0.470960247,1.601531321,1.025457572,2.501227397,0.038407209,0.038407209,*,Enriched in Tumor,1.6× higher in Tumor
+5,Unknown,0.449824618,1.568037156,0.964403852,2.549492641,0.069706391,0.069706391,ns,No difference,1.57× higher in Tumor

@@ -1,0 +1,14 @@
+Table 3: Sample information of spatial transcriptomics data GSE268419,,,,
+No.,Sample,Sample ID,Number of Spots,Detected Genes
+1,GSM8284979,Tumor 2,490,"37,733"
+2,GSM8284981,Tumor 4,509,"37,733"
+3,GSM8284983,Tumor 7,427,"37,733"
+4,GSM8284984,Tumor 8,967,"37,733"
+5,GSM8284985,Tumor 9,278,"37,733"
+6,GSM8284986,Tumor 10,731,"37,733"
+7,GSM8284987,Tumor 11,804,"37,733"
+8,GSM8284989,Tumor 13,605,"37,733"
+9,GSM8284990,Tumor 14,636,"37,733"
+10,GSM8284991,Tumor 15,537,"37,733"
+11,GSM8284992,Tumor 16,1157,"37,733"
+Total,,,7141,

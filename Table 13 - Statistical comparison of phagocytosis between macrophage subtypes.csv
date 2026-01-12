@@ -1,0 +1,12 @@
+Statistical comparison of phagocytosis between macrophage subtypes,,,,,,,,,,,,
+.y.,group1,group2,n1,n2,statistic,p,p.adj,p.adj.signif,y.position,groups,xmin,xmax
+Phagocytosis,TRAM,TAM,11300,4649,28895776,2.55E-23,8.50E-23,****,0.22904,"TRAM,TAM",1,2
+Phagocytosis,TRAM,Profi_TAM,11300,3146,21254867.5,1.71E-63,1.71E-62,****,0.231306667,"TRAM,Profi_TAM",1,3
+Phagocytosis,TRAM,Proli_TRM,11300,800,5765160,7.12E-39,3.56E-38,****,0.233573333,"TRAM,Proli_TRM",1,4
+Phagocytosis,TRAM,Unknown,11300,657,4438646.5,2.97E-17,4.95E-17,****,0.23584,"TRAM,Unknown",1,5
+Phagocytosis,TAM,Profi_TAM,4649,3146,8157144.5,4.67E-18,1.17E-17,****,0.238106667,"TAM,Profi_TAM",2,3
+Phagocytosis,TAM,Proli_TRM,4649,800,2208353,2.15E-17,4.30E-17,****,0.240373333,"TAM,Proli_TRM",2,4
+Phagocytosis,TAM,Unknown,4649,657,1704171.5,1.47E-06,2.10E-06,****,0.24264,"TAM,Unknown",2,5
+Phagocytosis,Profi_TAM,Proli_TRM,3146,800,1320901,0.03,0.037,*,0.244906667,"Profi_TAM,Proli_TRM",3,4
+Phagocytosis,Profi_TAM,Unknown,3146,657,1028486,0.846,0.846,ns,0.247173333,"Profi_TAM,Unknown",3,5
+Phagocytosis,Proli_TRM,Unknown,800,657,249615.5,0.099,0.11,ns,0.24944,"Proli_TRM,Unknown",4,5

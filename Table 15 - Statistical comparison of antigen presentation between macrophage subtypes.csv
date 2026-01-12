@@ -1,0 +1,18 @@
+Statistical comparison of antigen presentation between macrophage subtypes,,,,,,,,,,,,
+.y.,group1,group2,n1,n2,statistic,p,p.adj,p.adj.signif,y.position,groups,xmin,xmax
+Antigen,TRAM,TAM,11300,4649,24204567,5.98E-15,1.20E-14,****,0.34424,"TRAM,TAM",1,2
+Antigen,TRAM,Profi_TAM,11300,3146,13613516,5.45E-90,5.45E-89,****,0.34784,"TRAM,Profi_TAM",1,3
+Antigen,TRAM,Proli_TRM,11300,800,4960457,3.97E-06,4.96E-06,****,0.35144,"TRAM,Proli_TRM",1,4
+Antigen,TRAM,Unknown,11300,657,3902778,0.027,0.03,*,0.35504,"TRAM,Unknown",1,5
+Antigen,TAM,Profi_TAM,4649,3146,6244391,5.86E-28,1.95E-27,****,0.35864,"TAM,Profi_TAM",2,3
+Antigen,TAM,Proli_TRM,4649,800,2174906.5,1.70E-14,2.83E-14,****,0.36224,"TAM,Proli_TRM",2,4
+Antigen,TAM,Unknown,4649,657,1722288.5,1.11E-07,1.59E-07,****,0.36584,"TAM,Unknown",2,5
+Antigen,Profi_TAM,Proli_TRM,3146,800,1639866.5,4.04E-40,2.02E-39,****,0.36944,"Profi_TAM,Proli_TRM",3,4
+Antigen,Profi_TAM,Unknown,3146,657,1297779.5,5.37E-25,1.34E-24,****,0.37304,"Profi_TAM,Unknown",3,5
+Antigen,Proli_TRM,Unknown,800,657,252804.5,0.211,0.211,ns,0.37664,"Proli_TRM,Unknown",4,5
+,,,,,,,,,,,,
+Wilcoxon Rank Sum Test to compare between each two groups of subtypes,,,,,,,,,,,,
+TRAM: Tissue-Resident Alveolar Macrophage,,,,,,,,,,,,
+TAM: Tumor-Associated Macrophage,,,,,,,,,,,,
+Proli-TRM: Proliferating tissue-resident macrophage,,,,,,,,,,,,
+Profi-TAM: Profibrotic expressed TAM,,,,,,,,,,,,

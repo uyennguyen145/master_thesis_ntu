@@ -1,0 +1,13 @@
+Total number of each cell type in LUAD scRNA-seq data (GSE131907),,,,
+,celltype,cell_number,total_cells,proportion
+1,B cells,6153,98533,6.244608405
+2,T cells,31449,98533,31.9172257
+3,Macrophages,20552,98533,20.85798666
+4,Monocytes,3793,98533,3.849471751
+5,DC,1984,98533,2.013538611
+6,Epithelial cells,16412,98533,16.65634863
+7,Endothelial cells,2036,98533,2.066312809
+8,Fibroblasts,3483,98533,3.534856343
+9,MAST cells,2969,98533,3.013203698
+10,NK cells,9639,98533,9.782509413
+11,Erythroblast,63,98533,0.06393797

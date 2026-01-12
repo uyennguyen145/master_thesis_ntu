@@ -1,0 +1,14 @@
+Table 4: Sample information of spatial transcriptomics data (E-MTAB-13530),,,,,,,,,,,,,,,,
+No.,Donor ,Sample,Sample ID,Number of Spots Under Tissue,Median Genes per Spot,Number of Reads,Q30 Bases in RNA Read,Reads Mapped to Genome,Reads Mapped Confidently to Genome,Reads Mapped Confidently to Intergenic Regions,Reads Mapped Confidently to Intronic Regions,Fraction Reads in Spots Under Tissue,Total Genes Detected,Median UMI Counts per Spot,Fraction of Spots Under Tissue,Sequencing saturation
+1,Donor 1,TAB1,spaceranger110_count_38384_OTAR_LNGsp10206163_GRCh38-2020-A,278,852,"813,452",94.40%,97.10%,89.70%,2.90%,4.30%,52.60%,"15,582","1,478",52.60%,99.20%
+2,Donor 1,TAB2,spaceranger110_count_38384_OTAR_LNGsp10206164_GRCh38-2020-A,333,"1,247","678,560",94.60%,97.10%,91.20%,2.30%,3.40%,60.10%,"16,200","1,247",60.10%,99.10%
+3,Donor 2,TAB3,spaceranger110_count_38384_OTAR_LNGsp10206161_GRCh38-2020-A,"1,852","1,554","139,116",94.70%,97.70%,92.30%,2.70%,3.10%,86.50%,20.93%,"3,288",85.00%,96.10%
+4,Donor 2,TAB4,spaceranger110_count_38384_OTAR_LNGsp10206162_GRCh38-2020-A,"2,432","1,566","115,054",94.20%,97.80%,92.60%,2.40%,2.70%,93.30%,"21,377","3,232",93.30%,96.00%
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Comment[ArrayExpressAccession],E-MTAB-13530,,,,,,,,,,,,,,,
+Investigation Title,Spatial transcriptomics (10x Visium) of human NSCLC lesions and non-involved tissue,,,,,,,,,,,,,,,
+Experiment Description,"We performed 10X Visium on consecutive 10 µm sections from 8 human NSCLC tumours (total 20 sections), 8 adjacent non-involved lung tissues (total 16 sections) and two healthy donors (total 4 sections)",,,,,,,,,,,,,,,
+Person Affiliation,"Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, UK University of Cambridge, Department of Haematology, Cambridge, CB2 0AW, UK Wellcome Trust – Medical Research Council Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK","Biotech Research & Innovation Centre (BRIC), University of Copenhagen, Copenhagen, Denmark  Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, UK University of Cambridge, Department of Haematology, Cambridge, CB2 0AW, UK Wellcome Trust – Medical Research Council Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK","Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, UK University of Cambridge, Department of Haematology, Cambridge, CB2 0AW, UK Wellcome Trust – Medical Research Council Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK",,,,,,,,,,,,,
+Date of Experiment,01-08-23,,,,,,,,,,,,,,,
+Public Release Date,29-04-24,,,,,,,,,,,,,,,

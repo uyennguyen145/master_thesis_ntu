@@ -1,0 +1,5 @@
+Table 2: Sample information of spatial transcriptomics data GSE172416,,,,
+Sample,Sample ID,Patient,Number of Spots,Detected Genes
+GSM5255579,GSE172416_L1,1,1591,"36,601"
+GSM5255580,GSE172416_L2,1,2683,"36,601"
+Total,,,4274,"36,601"

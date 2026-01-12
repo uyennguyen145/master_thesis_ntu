@@ -1,0 +1,23 @@
+Proportion of cell types between two conditions of scRNA-seq data (GSE131907),,,,
+,condition,celltype,count,proportion
+1,normal,B cells,391,6.354623761
+2,normal,T cells,11034,35.08537632
+3,normal,Macrophages,13230,64.373297
+4,normal,Monocytes,2420,63.80174005
+5,normal,DC,911,45.91733871
+6,normal,Epithelial cells,3626,22.09359006
+7,normal,Endothelial cells,1349,66.25736739
+8,normal,Fibroblasts,1669,47.9184611
+9,normal,MAST cells,1058,35.6348939
+10,normal,NK cells,6891,71.49081855
+11,tumor,B cells,5762,93.64537624
+12,tumor,T cells,20415,64.91462368
+13,tumor,Macrophages,7322,35.626703
+14,tumor,Monocytes,1373,36.19825995
+15,tumor,DC,1073,54.08266129
+16,tumor,Epithelial cells,12786,77.90640994
+17,tumor,Endothelial cells,687,33.74263261
+18,tumor,Fibroblasts,1814,52.0815389
+19,tumor,MAST cells,1911,64.3651061
+20,tumor,NK cells,2748,28.50918145
+21,tumor,Erythroblast,63,100
